@@ -1,7 +1,7 @@
 schema_version: 1
 
 context:
-  version: "0.1.6"
+  version: "0.1.7"
 
 package:
   name: livekit-plugins-dtln
@@ -9,7 +9,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/l/livekit-plugins-dtln/livekit_plugins_dtln-${{ version }}.tar.gz
-  sha256: fd364905240f022adaea227281e2406fdeca2d682b86c77d4935205bd8be3bf6
+  sha256: 03e12b097e7989ffe7a7cf95c359e906131083659bc5652fd34331c18635463f
 
 build:
   number: 0
